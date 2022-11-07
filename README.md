@@ -7,9 +7,9 @@
 
 - 👨🏾‍💻 I’m: currently working on Back_end
 
-- 📫 my site: ehsanpropy.ir
+- 📫 my site: **fooehan3@gmail.com**
 
-- email: **fooehan3@gmail.com**
+- email: ehsanpropy.ir
 
 - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
 
@@ -48,5 +48,5 @@
    <div id="header" align="center"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 
 <p align="center">
-<a href="https://linkedin.com/in/Ehsan-Fouladi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ehsan-Fouladi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ehsan Fouladi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ehsan Fouladi" height="30" width="40" /></a>
 </p></div>
