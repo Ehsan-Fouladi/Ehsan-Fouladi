@@ -5,11 +5,11 @@
 
 <h3 align="left">‌‌Back-end Developer.</h3>
 
-- 👨🏾‍💻 I’m currently working on Back_end
+- 👨🏾‍💻 I’m: currently working on Back_end
 
-- 📫 my site **ehsanpropy.ir**
+- 📫 my site: ehsanpropy.ir
 
-- email: fooehan3@gmail.com
+- email: **fooehan3@gmail.com**
 
 - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
 
@@ -21,7 +21,7 @@
   
  <p align="center">
  <img alt="VSCode" width="40px" height="40px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
-<!-- <img alt="Vim" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> -->
+<img alt="Vim" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img alt="Ubuntu" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </p>
@@ -38,7 +38,7 @@
 </p>
 
   <p >
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyoubMS&show_icons=true&locale=en&theme=tokyonight" alt="AyoubMS" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&show_icons=true&locale=en&theme=tokyonight" alt="Ehsan-Fouladi" />
    </p>
 
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Fouladi&theme=tokyonight" alt="Ehsan-Fouladi" /></p>
@@ -49,5 +49,4 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/Ehsan-Fouladi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ehsan-Fouladi" height="30" width="40" /></a>
-<a href="https://fb.com/rado.play" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ehsan-Fouladi" height="30" width="40" /></a>
 </p></div>
