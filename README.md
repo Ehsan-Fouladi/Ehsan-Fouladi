@@ -48,6 +48,9 @@
 
    <div id="header" align="center"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
    <div id="header" align="center"><img src="./giphy.gif" width="200"/>
+   <div id="header" align="center"><img src="./1.webp" width="200"/>
+   <div id="header" align="center"><img src="./2.webp" width="200"/>
+   <div id="header" align="center"><img src="./3.webp" width="200"/>
 
 <p align="center">
 <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ehsan Fouladi" height="30" width="40" /></a>
