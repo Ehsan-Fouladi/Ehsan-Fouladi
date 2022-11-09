@@ -25,6 +25,7 @@
 <img alt="Ubuntu" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img alt="Docker" width="40px" height="40px" src="https://icons8.com/icon/cdYUlRaag9G9/docker" />
+  <a target="_blank" href="https://icons8.com/icon/cdYUlRaag9G9/docker">Docker</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
  </p>
 
 <h3 align="left">Web Development:</h3>
