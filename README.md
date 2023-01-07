@@ -13,7 +13,7 @@
 
 - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
 
-- 💻 Back-end: "I love programming, I live by programming"
+- 💻 Back-End: "I love programming, I live by programming"
 
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>     
 
