@@ -15,12 +15,12 @@
 
 - 💻 Back-End: "I love programming, I live by programming"
 
-<h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>     
+<h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>
 
 <h3 align="left">Environments:</h3>
   
  <p align="center">
- <img alt="VSCode" width="40px" height="40px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets/visual-studio-code.svg"/>
+ <img alt="VSCode" width="40px" height="40px" src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon.png"/>
 <img alt="Vim" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img alt="Ubuntu" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -37,7 +37,7 @@
 <img alt="Python" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="Django" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 </p>
-<h2>
+<hr>
   <p >
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&show_icons=true&locale=en&theme=tokyonight" alt="Ehsan-Fouladi" />
    </p>
@@ -49,8 +49,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 <img src="./giphy.gif" width="200"/>
-<img src="./1.webp" width="200"/>
-<img src="./2.webp" width="200" left/>
-<img src="./3.webp" width="200" left/>
+<img src="./2.webp" width="200" align="center"/>
 
 <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ehsan Fouladi" height="30" width="40" /></a></p>
