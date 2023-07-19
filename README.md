@@ -20,7 +20,7 @@
 <h3 align="left">Environments:</h3>
   
  <p align="center">
- <img alt="VSCode" width="40px" height="40px" src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon.png"/>
+ <img alt="VSCode" width="40px" height="40px" src="./vscode.png"/>
 <img alt="Vim" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img alt="Ubuntu" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -50,7 +50,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 <img src="./giphy.gif" width="200"/>
-<img src="./2.webp" width="200" align="center"/>
+<img src="./python.webp" width="200" align="center"/>
 
 <h2 align="center">My social networks</h2>
 
