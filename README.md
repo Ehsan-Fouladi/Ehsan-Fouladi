@@ -20,7 +20,7 @@
 <h3 align="left">Environments:</h3>
   
  <p align="center">
- <img alt="VSCode" width="40px" height="40px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
+ <img alt="VSCode" width="40px" height="40px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets/visual-studio-code.svg"/>
 <img alt="Vim" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img alt="Ubuntu" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -35,7 +35,7 @@
 <img alt="Bootstrap" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img alt="JS" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
 <img alt="Python" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="Django" width="40px" height="40px" src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon.png"/>
+<img alt="Django" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 </p>
 <hr>
   <p >
