@@ -53,7 +53,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 <img src="./giphy.gif" width="200"/>
-<img src="./python.webp" width="200" align="center"/>
 
 <h2 align="center">My social networks</h2>
 
