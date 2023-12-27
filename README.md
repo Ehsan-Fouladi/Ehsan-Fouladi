@@ -34,7 +34,7 @@
 <img alt="CSS" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img alt="Bootstrap" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img alt="JS" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
-<img alt="Python" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="Python" width="40px" height="40px" src="./python-programming-language-icon.svg" />
 <img alt="Django" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img alt="tailwind" width="40px" height="40px" src="./tailwind-css-icon.svg"/>
 <img alt="vue" width="40px" height="40px" src="./vue-js-icon.svg"/>
