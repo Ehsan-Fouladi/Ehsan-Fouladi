@@ -43,7 +43,7 @@
 <hr>
   <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&show_icons=true&locale=en&theme=tokyonight" alt="Ehsan-Fouladi"/>
-   <img align="right" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehsan-Fouladi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ehsan-Fouladi"/>
+   <img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehsan-Fouladi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ehsan-Fouladi"/>
   </p>
 <p align="center">
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
