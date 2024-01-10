@@ -45,10 +45,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehsan-Fouladi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="190" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehsan-Fouladi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/Ehsan-Fouladi/Ehsan-Fouladi/output/snake.svg" alt="Snake animation"/>
 </div>
-<div align="center">
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
-<img src="./giphy.gif" width="200"/>
+<div>
+<img align="center" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
+<img align="center" src="./giphy.gif" width="200"/>
 
 <h2 align="center">My social networks</h2>
 
