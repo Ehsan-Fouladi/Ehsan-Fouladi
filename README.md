@@ -42,8 +42,8 @@
 </p>
 <hr>
   <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&show_icons=true&locale=en&theme=tokyonight" alt="Ehsan-Fouladi"/>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehsan-Fouladi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ehsan-Fouladi"/>
+   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&show_icons=true&locale=en&theme=tokyonight" alt="Ehsan-Fouladi"/>
+   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehsan-Fouladi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ehsan-Fouladi"/>
   </p>
 <p align="center">
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
@@ -51,4 +51,5 @@
 
 <h2 align="center">My social networks</h2>
 
-<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ehsan Fouladi" height="30" width="40"/></a></p>
+<a align="center" href="https://www.linkedin.com/feed/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ehsan Fouladi" height="30" width="40"/></a></p>
