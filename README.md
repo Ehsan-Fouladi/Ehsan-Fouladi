@@ -41,15 +41,16 @@
 <img alt="nuxt" width="40px" height="40px" src="./nuxt-js-icon.svg"/>
 </p>
 <hr>
-  <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&show_icons=true&locale=en&theme=tokyonight" alt="Ehsan-Fouladi"/>
-   <img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehsan-Fouladi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ehsan-Fouladi"/>
-  </p>
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehsan-Fouladi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehsan-Fouladi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+<div align="center">
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 <img src="./giphy.gif" width="200"/>
 
 <h2 align="center">My social networks</h2>
 
 <a href="https://www.linkedin.com/feed/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ehsan Fouladi" height="30" width="40"/></a></p>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ehsan Fouladi" height="30" width="40"/></a></div>
