@@ -3,17 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="AyoubMS" /> </p>
 
-<h3 align="left">‌‌Back-end Developer.</h3>
+<h3 align="left">‌‌Front_End Developer.</h3>
 
-- 👨🏾‍💻 I’m: currently working on Back_end
+- 👨🏾‍💻 I’m: currently working on Front_end
 
-- 📫 email: **fooehan3@gmail.com**
+- 📫 Email: **fooehan3@gmail.com**
 
-- my site: https://ehsanpropy.ir
+- My Site: ehsanpropy.ir
 
 - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
 
 - 💻 Back-End: "I love programming, I live by programming"
+- 💻 Front-End: "I love programming, I live by programming"
 
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>
 
@@ -41,7 +42,8 @@
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 <img src="./giphy.gif" width="200"/>
 
-<h2 align="center">My social networks</h2>
+<h2 align="center">My Social Network</h2>
 </div>
 <a href="https://www.linkedin.com/feed/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ehsan Fouladi" height="30" width="40"/></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
