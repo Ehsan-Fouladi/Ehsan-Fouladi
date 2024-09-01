@@ -20,11 +20,11 @@
 <h3 align="left">Environments:</h3>
   
  <p align="center">
- <img alt="VSCode" width="40px" height="40px" src="./visual-studio-code-icon.svg"/>
-<img alt="Vim" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+ <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode,vim,linux,git,docker,github"/>
+<!-- <img alt="Vim" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img alt="linux" width="40px" height="40px" src="./linux.svg" />
 <img alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="Docker" width="40px" height="40px" src="./icons8-docker.svg" />
+<img alt="Docker" width="40px" height="40px" src="./icons8-docker.svg" /> -->
  </p>
 
 <h3 align="left">Web Development:</h3>
