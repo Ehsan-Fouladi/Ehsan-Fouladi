@@ -1,7 +1,13 @@
-<h2 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> I'm Ehsan&nbsp;</h2>
+<h2 align="center">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
+I'm Ehsan&nbsp;
+</h2>
 <p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="AyoubMS" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="AyoubMS"/> 
+</p>
 
 <h3 align="left">‌‌Front_End Developer.</h3>
 
@@ -41,7 +47,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 <img src="./giphy.gif" width="200"/>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdmajM1Z243c3I0ZTl0aW4wOW50MzQyamo2aGl6Z2lxd3FpaGQzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.webp" width="200"/>
 
 <h2 align="center">My Social Network</h2>
 </div>
