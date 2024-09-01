@@ -20,25 +20,13 @@
 <h3 align="left">Environments:</h3>
   
  <p align="center">
- <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode,vim,linux,git,docker,github"/>
-<!-- <img alt="Vim" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img alt="linux" width="40px" height="40px" src="./linux.svg" />
-<img alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="Docker" width="40px" height="40px" src="./icons8-docker.svg" /> -->
+ <img alt="skillIcons Environments" src="https://skillicons.dev/icons?i=vscode,vim,linux,github,git,docker,mysql,postgres"/>
  </p>
 
 <h3 align="left">Web Development:</h3>
     
 <div align="center">
-<img alt="HTML" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img alt="CSS" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img alt="Bootstrap" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img alt="JS" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
-<img alt="Python" width="40px" height="40px" src="./python-programming-language-icon.svg" />
-<img alt="Django" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-<img alt="tailwind" width="40px" height="40px" src="./tailwind-css-icon.svg"/>
-<img alt="vue" width="40px" height="40px" src="./vue-js-icon.svg"/>
-<img alt="nuxt" width="40px" height="40px" src="./nuxt-js-icon.svg"/>
+<img alt="skillIcons WebDevelopment" src="https://skillicons.dev/icons?i=python,js,django,vue,nuxt,bootstrap,tailwind,html,css"/>
 </div>
 
 <hr>
