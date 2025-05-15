@@ -6,8 +6,8 @@ I'm Ehsan&nbsp;
 <p>
 
 <p align="left"> 
-<!-- <img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="AyoubMS"/>  -->
-<img src="https://visitcount.itsvg.in/api?id=Ehsan-Fouladi&icon=8&color=0" alt="AyoubMS"/> 
+<img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="AyoubMS"/> 
+<!-- <img src="https://visitcount.itsvg.in/api?id=Ehsan-Fouladi&icon=8&color=0" alt="AyoubMS"/>  -->
 </p>
 
 <h3 align="left">‌‌Front_End Developer.</h3>
@@ -16,7 +16,7 @@ I'm Ehsan&nbsp;
 
 - 📫 Email: **fooehan3@gmail.com**
 
-- My Site: https://ehsanpropy.ir
+- My Site: https://efouladi.ir
 
 - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
 
