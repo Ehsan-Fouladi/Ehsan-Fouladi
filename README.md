@@ -34,7 +34,7 @@ I'm Ehsan&nbsp;
 <h3 align="left">Web Development:</h3>
     
 <div align="center">
-<img alt="skillIcons WebDevelopment" src="https://skillicons.dev/icons?i=python,js,django,vue,nuxt,bootstrap,tailwind,html,css"/>
+<img alt="skillIcons WebDevelopment" src="https://skillicons.dev/icons?i=python,js,nest,vue,nuxt,bootstrap,tailwind,html,css"/>
 </div>
 
 <hr>
