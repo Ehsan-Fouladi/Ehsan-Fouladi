@@ -5,6 +5,12 @@ I'm Ehsan&nbsp;
 </h2>
 <p>
 
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?size=25&duration=3000&pause=200&color=2AEAF7&center=true&lines=Hi+I%60m+Ehsan+Fouladi;Web+Developer;Javascript+%26+Typescript" alt="svg"/>
+  </h1>
+</div>
+
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="AyoubMS"/> 
 <!-- <img src="https://visitcount.itsvg.in/api?id=Ehsan-Fouladi&icon=8&color=0" alt="AyoubMS"/>  -->
@@ -46,9 +52,6 @@ I'm Ehsan&nbsp;
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
-<img src="./giphy.gif" width="200"/>
-
 <h2 align="center">My Social Network</h2>
 </div>
 <a href="https://www.linkedin.com/feed/" target="blank">
