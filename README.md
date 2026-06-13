@@ -30,9 +30,9 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehsan-Fouladi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Fouladi&theme=dracula&hide_border=false" height="200" alt="activity-graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Fouladi&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehsan-Fouladi&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /></br>
 </div>
 
 ### 📊 Activity
