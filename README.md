@@ -30,7 +30,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechnologyHell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" alt="status" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&theme=aura&hide_border=true&include_all_commits=true&count_private=true" alt="status" width="55%"/>
   </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Fouladi&theme=aura&hide_border=true" alt="status" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehsan-Fouladi&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="status" width="36%"/>
