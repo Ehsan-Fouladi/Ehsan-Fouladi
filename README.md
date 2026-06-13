@@ -6,11 +6,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="view"/>
 <h3>Web Developer.</h3>
-- 👨🏾‍💻 I’m: currently working on Front_End & Backend_End
-- 📫 Email: **fooehan3@gmail.com**
-- My Site: https://efouladi.vercel.app
-- ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
-- ⚡ Programming: "I love programming, I live by programming."
+  - 👨🏾‍💻 I’m: currently working on Front_End & Backend_End
+  - 📫 Email: **fooehan3@gmail.com**
+  - My Site: https://efouladi.vercel.app
+  - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
+  - ⚡ Programming: "I love programming, I live by programming."
 
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>
 
@@ -40,8 +40,6 @@
 
 ![Snake eating my contributions](https://raw.githubusercontent.com/ReZaiden/ReZaiden/main/output/github-contribution-grid-snake.gif) -->
 
-<h2>My Social Network</h2>
+<h2 align="center">My Social Network</h2>
 
-<div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ehsan-fouladi-a0144a237)
-</div>

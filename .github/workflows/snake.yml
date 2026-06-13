@@ -33,7 +33,7 @@ jobs:
 
       - name: Generate GitHub Contributions Snake Animations
 
-        uses: Platane/snk@v4
+        uses: Platane/snk@v3
 
         with:
           # GitHub username to generate the animation for
