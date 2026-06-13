@@ -7,7 +7,7 @@ I'm Ehsan&nbsp;
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=200&color=2AEAF7&center=true&width=435&lines=Hi+I%60m+Ehsan+Fouladi;Web+Developer;Javascript+%26+Typescript" alt="svg"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=200&color=2AEAF7&center=true&width=435&lines=Hi+I%60m+Ehsan+Fouladi;Web+Developer;Javascript+%26+Typescript" alt="svg"/>
   </h1>
 </div>
 
