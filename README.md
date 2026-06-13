@@ -6,25 +6,26 @@
 
 <div> 
   <img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="view"/> 
-  <h3>Web Developer.</h3>
-  - 👨🏾‍💻 I’m: currently working on Front_End & Backend_End
-  - 📫 Email: **fooehan3@gmail.com**
-  - My Site: https://efouladi.vercel.app
-  - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
-  - ⚡ Programming: "I love programming, I live by programming."
+  <div>
+    <h3>Web Developer.</h3>
+    - 👨🏾‍💻 I’m: currently working on Front_End & Backend_End
+    - 📫 Email: **fooehan3@gmail.com**
+    - My Site: https://efouladi.vercel.app
+    - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
+    - ⚡ Programming: "I love programming, I live by programming."
+  </div>
 </div>
 
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>
 
-<div>
+<div align="center">
   <h3 align="left">Environments:</h3>
-  <img align="center" src="https://skillicons.dev/icons?i=vscode,vim,linux,github,git,docker,mysql,postgres"  alt="skillIcons Environments"/>
+  <img src="https://skillicons.dev/icons?i=vscode,vim,linux,github,git,docker,mysql,postgres"  alt="skillIcons Environments"/>
 </div>
 
-    
-<div>
+<div align="center">
   <h3 align="left">Web Development:</h3>
-  <img align="center" src="https://skillicons.dev/icons?i=python,js,nest,vue,nuxt,bootstrap,tailwind,html,css" alt="skillIcons WebDevelopment"/>
+  <img src="https://skillicons.dev/icons?i=python,js,nest,vue,nuxt,bootstrap,tailwind,html,css" alt="skillIcons WebDevelopment"/>
 </div>
 
 <hr>
@@ -44,7 +45,7 @@
 ![Snake eating my contributions](https://raw.githubusercontent.com/ReZaiden/ReZaiden/main/output/github-contribution-grid-snake.gif)
 
 <div align="center">
-  <h2 align="center">My Social Network</h2>
+  <h2>My Social Network</h2>
 </div>
 <a href="https://www.linkedin.com/feed/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
