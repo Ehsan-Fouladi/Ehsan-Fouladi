@@ -4,13 +4,16 @@
   </h1>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="view"/>
-<h3>Web Developer.</h3>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="view"/>
+  <h3>Web Developer.</h3>
+
   - 👨🏾‍💻 I’m: currently working on Front_End & Backend_End
   - 📫 Email: **fooehan3@gmail.com**
   - My Site: https://efouladi.vercel.app
   - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
   - ⚡ Programming: "I love programming, I live by programming."
+</div>
 
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>
 
@@ -36,9 +39,9 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ehsan-Fouladi&theme=react-dark&hide_border=true)
 
-<!-- ### 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
-![Snake eating my contributions](https://raw.githubusercontent.com/ReZaiden/ReZaiden/main/output/github-contribution-grid-snake.gif) -->
+![Snake eating my contributions](https://github.com/Ehsan-Fouladi/Ehsan-Fouladi/blob/output/github-snake-dark.svg)
 
 <h2 align="center">My Social Network</h2>
 
