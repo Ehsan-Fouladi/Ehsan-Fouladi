@@ -1,13 +1,13 @@
-<h2 align="center">
+<!-- <h2 align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
 I'm Ehsan&nbsp;
 </h2>
-<p>
+<p> -->
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=200&color=2AEAF7&center=true&width=435&lines=Hi+I%60m+Ehsan+Fouladi;Web+Developer;Javascript+%26+Typescript" alt="svg"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=200&color=2AEAF7&width=435&lines=Hi+I%60m+Ehsan+Fouladi;Web+Developer;Javascript+%26+Typescript" alt="svg"/>
   </h1>
 </div>
 
