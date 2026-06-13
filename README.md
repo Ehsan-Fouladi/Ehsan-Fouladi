@@ -1,46 +1,30 @@
-<!-- <h2 align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
-I'm Ehsan&nbsp;
-</h2>
-<p> -->
-
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=200&color=2AEAF7&center=true&vCenter=true&width=500&lines=Hi+I%60m+Ehsan+Fouladi;Web+Developer;Javascript+%26+Typescript" alt="typing"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=200&color=2AEAF7&center=true&vCenter=true&width=500&height=35&lines=Hi+I%60m+Ehsan+Fouladi;Web+Developer;Javascript+%26+Typescript" alt="typing"/>
   </h1>
 </div>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="AyoubMS"/> 
-<!-- <img src="https://visitcount.itsvg.in/api?id=Ehsan-Fouladi&icon=8&color=0" alt="AyoubMS"/>  -->
-</p>
-
-<h3 align="left">‌‌Front_End Developer.</h3>
-
-- 👨🏾‍💻 I’m: currently working on Front_end
-
-- 📫 Email: **fooehan3@gmail.com**
-
-- My Site: https://efouladi.vercel.app
-
-- ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
-
-- 💻 Back-End: "I love programming, I live by programming"
-- 💻 Front-End: "I love programming, I live by programming"
+<div> 
+  <img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="view"/> 
+  <h3>Web Developer.</h3>
+  - 👨🏾‍💻 I’m: currently working on Front_End & Backend_End
+  - 📫 Email: **fooehan3@gmail.com**
+  - My Site: https://efouladi.vercel.app
+  - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
+  - ⚡ Programming: "I love programming, I live by programming."
+</div>
 
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>
 
-<h3 align="left">Environments:</h3>
-  
- <p align="center">
- <img alt="skillIcons Environments" src="https://skillicons.dev/icons?i=vscode,vim,linux,github,git,docker,mysql,postgres"/>
- </p>
+<div>
+  <h3 align="left">Environments:</h3>
+  <img align="center" src="https://skillicons.dev/icons?i=vscode,vim,linux,github,git,docker,mysql,postgres"  alt="skillIcons Environments"/>
+</div>
 
-<h3 align="left">Web Development:</h3>
     
-<div align="center">
-<img alt="skillIcons WebDevelopment" src="https://skillicons.dev/icons?i=python,js,nest,vue,nuxt,bootstrap,tailwind,html,css"/>
+<div>
+  <h3 align="left">Web Development:</h3>
+  <img align="center" src="https://skillicons.dev/icons?i=python,js,nest,vue,nuxt,bootstrap,tailwind,html,css" alt="skillIcons WebDevelopment"/>
 </div>
 
 <hr>
@@ -51,9 +35,17 @@ I'm Ehsan&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Fouladi&theme=dracula&hide_border=false" height="200" alt="activity-graph"/>
 </div>
 
+### 📊 Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ehsan-Fouladi&theme=react-dark&hide_border=true)
+
+### 🐍 Contribution Snake
+
+![Snake eating my contributions](https://raw.githubusercontent.com/ReZaiden/ReZaiden/main/output/github-contribution-grid-snake.gif)
+
 <div align="center">
-<h2 align="center">My Social Network</h2>
+  <h2 align="center">My Social Network</h2>
 </div>
 <a href="https://www.linkedin.com/feed/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
