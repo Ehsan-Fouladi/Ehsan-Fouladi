@@ -24,7 +24,7 @@
 
 <div align="center">
   <h3 align="left">Web Development:</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,node,express,fastify,nest,vue,react,nuxt,next,bootstrap,tailwind,html,css" alt="skillIcons WebDevelopment"/>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,nest,vue,react,nuxt,next,bootstrap,tailwind,html,css" alt="skillIcons WebDevelopment"/>
 </div>
 
 <hr>
@@ -35,10 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Fouladi&theme=aura&hide_border=true" alt="status" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehsan-Fouladi&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="status" width="36%"/>
 </div>
-
-### 📊 Activity
-
-[![Metrics](https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&show_icons=true&theme=react-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🐍 Contribution Snake
 
