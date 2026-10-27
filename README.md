@@ -18,13 +18,19 @@
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>
 
 <div align="center">
-  <h3 align="left">Environments:</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,vim,linux,github,git,docker,mysql,postgres"  alt="skillIcons Environments"/>
-</div>
 
-<div align="center">
-  <h3 align="left">Web Development:</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,nest,vue,react,nuxt,next,bootstrap,tailwind,html,css" alt="skillIcons WebDevelopment"/>
+  <h3 align="left">💻 Programming Languages:</h3>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,rust" alt="Languages"/>
+
+  <h3 align="left">🌐 Web Development:</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vue,next,nuxt" alt="Web"/>
+
+  <h3 align="left">⚙️ Backend & Databases:</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,mysql,postgres,mongodb,redis" alt="Backend"/>
+
+  <h3 align="left">🛠️ Tools & DevOps:</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vim,vscode,linux" alt="Tools"/>
+
 </div>
 
 <hr>
