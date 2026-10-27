@@ -24,7 +24,7 @@
 
 <div align="center">
   <h3 align="left">Web Development:</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,nest,vue,nuxt,bootstrap,tailwind,html,css" alt="skillIcons WebDevelopment"/>
+  <img src="https://skillicons.dev/icons?i=python,js,node,express,fastify,nest,vue,react,nuxt,next,bootstrap,tailwind,html,css" alt="skillIcons WebDevelopment"/>
 </div>
 
 <hr>
@@ -38,7 +38,7 @@
 
 ### 📊 Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ehsan-Fouladi&theme=react-dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ehsan-Fouladi&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 ### 🐍 Contribution Snake
 
