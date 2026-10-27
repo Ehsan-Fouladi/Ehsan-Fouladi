@@ -6,13 +6,14 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=Ehsan-Fouladi&label=Profile%20views&color=0e75b6&style=flat" alt="view"/>
-  <h3>Web Developer.</h3>
+  <h3>🚀 Web Developer & Software Engineer</h3>
 
-  - 👨🏾‍💻 I’m: currently working on Front_End & Backend_End
-  - 📫 Email: **fooehan3@gmail.com**
-  - My Site: https://efouladi.ir
-  - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
-  - ⚡ Programming: "I love programming, I live by programming."
+  ### About Me:
+  - 👨🏾‍💻 **I’m currently working on:** Front-End & Back-End development.
+  - 📫 **How to reach me:** [fooehan3@gmail.com](mailto:fooehan3@gmail.com)
+  - 🌐 **My Website:** [efouladi.ir](https://efouladi.ir)
+  - ⚡ **Fun fact:** *"Programming is not easy like Sunday morning, it is silent poetry."*
+  - 💡 **Philosophy:** *"I love programming, I live by programming."*
 </div>
 
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>
