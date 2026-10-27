@@ -38,7 +38,7 @@
 
 ### 📊 Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ehsan-Fouladi&theme=react&hide_border=true)](https://git.io/streak-stats)
+[![Metrics](https://github-readme-stats.vercel.app/api?username=Ehsan-Fouladi&show_icons=true&theme=react-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🐍 Contribution Snake
 
